@@ -10,8 +10,6 @@ dataset contains 1,232 entries and 13 columns. It appears to be a collection of 
 - address – Location details.
 - image_url – URL of the restaurant's main image.
 - dine_in – Availability of dine-in service.
-- service_option_1 – Additional service details.
 - takeaway – Availability of takeaway service.
-- service_option_2 – More service options.
 - delivery – Availability of delivery service.
 - additional_image_url – Secondary image URL.
